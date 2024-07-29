@@ -11,7 +11,7 @@ function AppMenu() {
       height:800
     }}>
       <Menu.Item key="1">
-        <Link to="/">TodoApp</Link>
+        <Link to="/main">TodoApp</Link>
       </Menu.Item>
       <Menu.Item key="2">
         <Link to="/done">Done</Link>
